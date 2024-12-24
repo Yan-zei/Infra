@@ -1,0 +1,2 @@
+Set objShell = CreateObject("WScript.Shell")
+objShell.Run "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File ""\\lovisa.com\NETLOGON\scripts\Check_DiskSpace\Check_DiskSpace-v2.ps1""", 0, False
