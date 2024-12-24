@@ -1,0 +1,1 @@
+remove-Item -Path "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\WorkDocs Drive.lnk"

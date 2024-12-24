@@ -1,0 +1,2 @@
+the difference between the two is tha 
+in v4 the script is will check for existing entry of the computer and updates it , rather than create a new one as in v2
