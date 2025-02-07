@@ -7,7 +7,7 @@ Import-Module Microsoft.Graph
 Connect-MgGraph -Scopes "Group.Read.All"
 
 # Get the group
-$GroupName = "Bitlocker-on-devices"
+$GroupName = "grp-bitlocker-stg2"
 $Group = Get-MgGroup -Filter "displayName eq '$GroupName'"
 
 # Get the members
